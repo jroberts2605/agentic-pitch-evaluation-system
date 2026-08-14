@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Environment variables / API keys
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter notebooks used during development
+assignment_original.ipynb
+
+# macOS
+.DS_Store
