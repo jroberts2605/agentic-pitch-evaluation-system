@@ -7,6 +7,7 @@
 # Python cache files
 __pycache__/
 *.pyc
+.pytest_cache/
 
 # Jupyter notebooks used during development
 assignment_original.ipynb
